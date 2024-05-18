@@ -1,0 +1,4 @@
+configs/mysql/master
+
+# macOS
+.DS_Store
